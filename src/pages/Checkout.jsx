@@ -278,7 +278,7 @@ const Checkout = () => {
                     <hr className="my-4" />
 
                     <button className="w-100 btn btn-primary " type="submit">
-                      Continue to checkout
+                      Proceed
                     </button>
                   </form>
                 </div>
